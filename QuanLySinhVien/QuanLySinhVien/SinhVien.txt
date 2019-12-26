@@ -1,0 +1,15 @@
+102150155,Ho,Duc,17/02/1997,Nam,15T3,Toan:8, Ly:8, Tin:9
+102150156,Nguyen,Quan,12/04/1997,Nam,15T3,Toan:7, Ly:8, Tin:7
+102150157,Duong,Phuc,15/09/1997,Nam,14T2,Toan:3, Ly:3, Tin:9
+102150158,Vo,Tram,26/04/1997,Nu,16T1,Toan:7, Ly:6, Tin:5
+102150159,Ngo,Huong,23/02/1993,Nu,08T3,Toan:3, Ly:4, Tin:4
+102150160,Tran,Hung,24/09/1996,Nam,14T3,Toan:7, Ly:8, Tin:8
+102150161,Ho,Hien,25/06/1994,Nu,08T2,Toan: 8, Ly:7, Tin: 7
+102150162,Nguyen,Huy,10/10/1996,Nam,15T3,Toan: 6, Ly:6, Tin:7
+102150163,Nguyen,Dang,14/02/1997,Nam,15T3,Toan: 8, Ly:7, Tin:7
+102150164,Le,Hieu,20/12/1996,Nam,15T3,Toan:7, Ly:8, Tin:7
+102150165,Nguyen,Hoang,12/09/1997,Nam,15T2,Toan:4, Ly:5, Tin:9
+102150166,Ho,Trang,14/10/1997,Nu,16T3,Toan:3, Ly:6, Tin:5
+102150167,Le,An,12/06/1994,Nu,08T3,Toan:6, Ly:7, Tin:9
+102150168,Nguyen,Hung,20/011/1994,Nam,08T2,Toan:8, Ly:7, Tin:9
+102150169,Tran,Thang,20/10/1996,Nam,14T2,Toan:9, Ly:9, Tin: 10
